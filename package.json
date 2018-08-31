@@ -1,0 +1,33 @@
+{
+  "name": "grid-css-responsive-website-layout",
+  "version": "1.0.0",
+  "description": "Grid Css Responsive Website Layout",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorpioCoding/demo_grid_landingpage_dev.git"
+  },
+  "keywords": [
+    "Grid",
+    "Css",
+    "Responsive",
+    "Website",
+    "Layout",
+    "Html",
+    "Scss",
+    "jQuery"
+  ],
+  "author": "Scorpiocoding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScorpioCoding/demo_grid_landingpage_dev/issues"
+  },
+  "homepage": "https://github.com/ScorpioCoding/demo_grid_landingpage_dev#readme"
+}
